@@ -56,7 +56,7 @@ b,strong {font-weight:700;}
 #nav{float:right;font-family:'Economica',Tahoma,sans-serif;text-align:center;}
 #nav ul{list-style:none;margin:30px 30px 26px 20px;}
 #nav ul li{background:none!important;display:inline-block;text-align:right;height:auto;line-height:25px;margin-bottom:0;margin-left:25px;position:relative;}
-#nav ul li a{color:#333333;display:block;font-size:12px;padding-top:0;text-transform:uppercase;}
+#nav ul li a{color:#333333;display:block;font-size:11px;padding-top:0;text-transform:uppercase;}
 #nav ul li a:hover{color:#333333;}
 #nav ul li a.current{color:#333333;}
 
