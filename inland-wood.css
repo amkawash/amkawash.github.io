@@ -45,7 +45,7 @@ b,strong {font-weight:700;}
 /* Top links menu */
 #toplinks{padding:0 30px;}
 #toplinks ul{list-style:none;margin:0;text-align:right;}
-#toplinks ul li{display:inline-block;font-size:11px;margin:15px 0 12px 15px;}
+#toplinks ul li{display:inline-block;font-size:8px;margin:15px 0 12px 15px;}
 #toplinks ul li a{color:#dadddd;}
 #toplinks ul li a:hover{color:#fff;text-decoration:none;}
 
