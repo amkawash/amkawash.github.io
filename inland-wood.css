@@ -45,7 +45,7 @@ b,strong {font-weight:700;}
 /* Top links menu */
 #toplinks{padding:0 30px;}
 #toplinks ul{list-style:none;margin:0;text-align:right;}
-#toplinks ul li{display:inline-block;font-size:8px;margin:15px 0 12px 15px;}
+#toplinks ul li{display:inline-block;font-size:11px;margin:15px 0 12px 15px;}
 #toplinks ul li a{color:#dadddd;}
 #toplinks ul li a:hover{color:#fff;text-decoration:none;}
 
@@ -56,7 +56,7 @@ b,strong {font-weight:700;}
 #nav{float:right;font-family:'Economica',Tahoma,sans-serif;text-align:center;}
 #nav ul{list-style:none;margin:30px 30px 26px 20px;}
 #nav ul li{background:none!important;display:inline-block;text-align:right;height:auto;line-height:25px;margin-bottom:0;margin-left:25px;position:relative;}
-#nav ul li a{color:#333333;display:block;font-size:14px;padding-top:0;text-transform:uppercase;}
+#nav ul li a{color:#333333;display:block;font-size:12px;padding-top:0;text-transform:uppercase;}
 #nav ul li a:hover{color:#333333;}
 #nav ul li a.current{color:#333333;}
 
